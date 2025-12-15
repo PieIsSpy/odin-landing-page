@@ -21,3 +21,10 @@ The following commit conventions has been adopted from this [gist](https://gist.
     <ops>: Commits that affect operational components like infrastructure, deployment, backup, recovery procedures, ...
 
     <chore>: Commits that represent tasks like initial commit, modifying .gitignore, ...
+
+## Image references:
+- https://www.reddit.com/r/ItemShop/comments/1owntrl/molten_bread/
+- https://www.reddit.com/r/ItemShop/comments/1pmkfqy/the_holy_handkit/
+- https://www.reddit.com/r/ItemShop/comments/1pkxiie/surprise_consumable_on_use_goodbye/
+- https://www.reddit.com/r/ItemShop/comments/1pim87c/divine_fire_extinguisher_100_power_against_fire/
+- https://www.reddit.com/r/ItemShop/comments/1ozhyiy/feline_armadillo_armor_rare_15_armor_30_speed_20/
