@@ -34,10 +34,6 @@ img {
     color: #F9FAF8;
 }
 
-#cta {
-    background-color: #3882F6;
-}
-
 #info-header {
     font-size: 36px;
     color: #1F2937;
@@ -112,4 +108,34 @@ header {
     flex-direction: row;
     text-align: center;
     flex: 1;
+}
+
+#cta {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+#container {
+    background-color: #3882F6;
+    color: white;
+    width: 800px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+
+#container .button {
+    border: white 3px solid;
+    align-self: center;
+}
+
+#cta-main {
+    font-weight: 700;
 }
