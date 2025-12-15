@@ -52,6 +52,18 @@ img {
     font-size: 36px;
     color: #1F2937;
     font-weight: 300;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+#testimonial .author {
+    font-size: 24px;
+    color: #1F2937;
+    font-weight: 700;
+    display: flex;
+    justify-content:right;
+    padding: 40px;
 }
 
 header {
@@ -85,4 +97,19 @@ header {
     align-items: center;
     padding-top: 40px;
     padding-bottom: 40px;
+}
+
+#info-header {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#children-container {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-direction: row;
+    text-align: center;
+    flex: 1;
 }
