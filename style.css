@@ -139,3 +139,9 @@ header {
 #cta-main {
     font-weight: 700;
 }
+
+footer {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
